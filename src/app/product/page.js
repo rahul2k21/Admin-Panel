@@ -92,11 +92,7 @@ function Product() {
                 Total Active Deals{" "}
               </p>
               <p className="text-3xl font-bold text-white">{activeCustomers}</p>
-              <img
-                src={memberImage}
-                alt="member"
-                className="h-6 w-9/12 rounded-full mt-1"
-              />
+             
             </div>
           </div>
         </div>
